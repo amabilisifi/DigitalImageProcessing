@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Output files and folders
+images/output/*
+Q1-outputs/
+Q2-outputs/
+Q3-outputs/
+Q4-outputs/
+Q5-outputs/
+Q6-outputs/
+denoise_output/
+denoise_output_plus/
+denoise_output_minus/
+Noise_Outputs/
+xed_funcs/
